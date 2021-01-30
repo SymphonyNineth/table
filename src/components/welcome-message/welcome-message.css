@@ -1,0 +1,13 @@
+.welcome-message{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.welcome-message button{
+    padding: 2rem 5.3rem;
+    margin-left: 10px;
+    font-size: 3rem;
+}
